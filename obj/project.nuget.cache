@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLS9gFS9Y4w=",
+  "dgSpecHash": "Qs28p4jFqdY=",
   "success": true,
-  "projectFilePath": "/Users/sahit/Desktop/azure project/azure project.csproj",
+  "projectFilePath": "/Users/sahit/Desktop/github CICD project/github CICD project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sahit/Desktop/azure project/azure project.csproj",
-      "projectName": "azure project",
-      "projectPath": "/Users/sahit/Desktop/azure project/azure project.csproj",
+      "projectUniqueName": "/Users/sahit/Desktop/github CICD project/github CICD project.csproj",
+      "projectName": "github CICD project",
+      "projectPath": "/Users/sahit/Desktop/github CICD project/github CICD project.csproj",
       "packagesPath": "/Users/sahit/.nuget/packages/",
-      "outputPath": "/Users/sahit/Desktop/azure project/obj/",
+      "outputPath": "/Users/sahit/Desktop/github CICD project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sahit/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,4 @@
-namespace azure_project.Models;
+namespace github_CICD_project.Models;
 
 public class ErrorViewModel
 {

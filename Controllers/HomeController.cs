@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using azure_project.Models;
+using github_CICD_project.Models;
 
-namespace azure_project.Controllers;
+namespace github_CICD_project.Controllers;
 
 public class HomeController : Controller
 {
