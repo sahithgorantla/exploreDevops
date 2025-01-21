@@ -1,0 +1,34 @@
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/appsettings.Development.json
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/appsettings.json
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project.staticwebassets.runtime.json
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project.staticwebassets.endpoints.json
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project.deps.json
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project.runtimeconfig.json
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project.dll
+/Users/sahit/Desktop/github CICD project/bin/Debug/net8.0/github CICD project.pdb
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.AssemblyInfoInputs.cache
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.AssemblyInfo.cs
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.csproj.CoreCompileInputs.cache
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.MvcApplicationPartsAssemblyInfo.cache
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.RazorAssemblyInfo.cache
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.RazorAssemblyInfo.cs
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.sourcelink.json
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/scopedcss/bundle/github CICD project.styles.css
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/scopedcss/projectbundle/github CICD project.bundle.scp.css
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets/msbuild.github CICD project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets/msbuild.github CICD project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets/msbuild.build.github CICD project.props
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.github CICD project.props
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.github CICD project.props
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.dll
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/refint/github CICD project.dll
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.pdb
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/github CICD project.genruntimeconfig.cache
+/Users/sahit/Desktop/github CICD project/obj/Debug/net8.0/ref/github CICD project.dll
