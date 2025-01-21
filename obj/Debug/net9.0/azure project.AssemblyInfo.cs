@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed26c3cd9732cb09583f73798a462cd26e3754a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d81215368e97659f8067e2e16e18c343e5d268c")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
